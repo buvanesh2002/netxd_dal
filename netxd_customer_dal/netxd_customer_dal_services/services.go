@@ -2,7 +2,7 @@ package netxdcustomerdalservices
 
 import (
 	"context"
-	netxdcustomerdalinterfaces "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd-customer_dal_interfaces"
+	netxdcustomerdalinterfaces "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd_customer_dal_interfaces"
 	netxdcustomerdalmodels "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd_customer_dal_models"
 	"time"
 
