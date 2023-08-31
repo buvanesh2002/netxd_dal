@@ -1,6 +1,6 @@
 package netxdcustomerdalinterfaces
 
-import netxdcustomerdalmodels "task-grpc/netxd_customer_dal/netxd_customer_dal_models"
+import netxdcustomerdalmodels "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd_customer_dal_models"
 
 
 

@@ -2,8 +2,8 @@ package netxdcustomerdalservices
 
 import (
 	"context"
-	netxdcustomerdalinterfaces "task-grpc/netxd_customer_dal/netxd-customer_dal_interfaces"
-	netxdcustomerdalmodels "task-grpc/netxd_customer_dal/netxd_customer_dal_models"
+	netxdcustomerdalinterfaces "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd-customer_dal_interfaces"
+	netxdcustomerdalmodels "github.com/buvanesh2002/netxd_dal/netxd_customer_dal/netxd_customer_dal_models"
 	"time"
 
 	//"errors"
